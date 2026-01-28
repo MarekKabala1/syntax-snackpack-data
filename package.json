@@ -1,0 +1,29 @@
+{
+  "name": "syntaxapp-snackpack-scraper",
+  "version": "0.1.0",
+  "description": "Scraper for the Syntax.fm Snack Pack newsletter (minimal Node + TypeScript setup)",
+  "main": "dist/fetchSnacPack.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "ts-node fetchSnacPack.ts",
+    "build": "tsc",
+    "run:node": "node dist/fetchSnacPack.js",
+    "scrape": "ts-node fetchSnacPack.ts"
+  },
+  "keywords": [
+    "scraper",
+    "syntax.fm",
+    "snackpack"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.1.2"
+  },
+  "devDependencies": {
+    "@types/cheerio": "^0.22.35",
+    "@types/node": "^20.19.24",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}

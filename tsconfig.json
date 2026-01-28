@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"target": "ES2020",
+		"module": "CommonJS",
+		"moduleResolution": "node",
+		"esModuleInterop": true,
+		"skipLibCheck": true,
+		"forceConsistentCasingInFileNames": true,
+		"lib": ["es2020", "dom"],
+		"outDir": "dist",
+		"resolveJsonModule": true
+	},
+	"include": ["*.ts", "fetchIssuesFromSyntax/fetchSnacPack.ts"]
+}

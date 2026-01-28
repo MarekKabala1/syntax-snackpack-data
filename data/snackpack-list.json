@@ -1,0 +1,429 @@
+{
+  "metadata": {
+    "lastUpdated": "2026-01-28T07:54:40.701Z",
+    "totalIssues": 60,
+    "version": "1.0.0"
+  },
+  "issues": [
+    {
+      "id": "22651237",
+      "title": "Snack Pack: Ryan Dahl thinks you’re done writing code",
+      "date": "2026-01-23T00:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/22651237",
+      "issueNumber": "22651237"
+    },
+    {
+      "id": "22524467",
+      "title": "Snack Pack: What actually makes someone a real developer?",
+      "date": "2026-01-14T00:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/22524467",
+      "issueNumber": "22524467"
+    },
+    {
+      "id": "22133687",
+      "title": "Snack Pack: React RSC Emergency: Stop Everything & Patch Now",
+      "date": "2025-12-10T00:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/22133687",
+      "issueNumber": "22133687"
+    },
+    {
+      "id": "21843003",
+      "title": "Snack Pack: Your early-access discount + React 2025, Subgrid, and more",
+      "date": "2025-11-26T00:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/21843003",
+      "issueNumber": "21843003"
+    },
+    {
+      "id": "21656304",
+      "title": "Snack Pack: Stop using AI for this",
+      "date": "2025-11-05T00:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/21656304",
+      "issueNumber": "21656304"
+    },
+    {
+      "id": "21473947",
+      "title": "Snack Pack: @ts-ignore is not your safety net",
+      "date": "2025-10-21T23:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/21473947",
+      "issueNumber": "21473947"
+    },
+    {
+      "id": "21292923",
+      "title": "Snack Pack: OpenAI’s Dev Day bombshells + our new swag drop 🤫",
+      "date": "2025-10-07T23:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/21292923",
+      "issueNumber": "21292923"
+    },
+    {
+      "id": "21106804",
+      "title": "Syntax Snack Pack: React Server Components are...mid",
+      "date": "2025-09-23T23:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/21106804",
+      "issueNumber": "21106804"
+    },
+    {
+      "id": "20916979",
+      "title": "Syntax Snack Pack: When Chalk, Debug, and Color turn against you…",
+      "date": "2025-09-09T23:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/20916979",
+      "issueNumber": "20916979"
+    },
+    {
+      "id": "20743201",
+      "title": "Syntax Snack Pack: Hate CSS? You might just be doing it wrong",
+      "date": "2025-08-26T23:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/20743201",
+      "issueNumber": "20743201"
+    },
+    {
+      "id": "20489802",
+      "title": "Syntax Snack Pack: CSS Tic Tac Toe, File Servers in Your Fridge & a Prettier Scare",
+      "date": "2025-08-05T23:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/20489802",
+      "issueNumber": "20489802"
+    },
+    {
+      "id": "20320472",
+      "title": "Syntax Snack Pack: 50th issue giveaway! Plus React’s Origin Story, Nuxt 4.0, and the Future of JS",
+      "date": "2025-07-22T23:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/20320472",
+      "issueNumber": "20320472"
+    },
+    {
+      "id": "20154972",
+      "title": "Syntax Snack Pack: Vercel Snags Nuxt — What It Means for Open Source",
+      "date": "2025-07-08T23:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/20154972",
+      "issueNumber": "20154972"
+    },
+    {
+      "id": "19970271",
+      "title": "Syntax Snack Pack: Google Enters the CLI Game, JS Gets More Async, and TC39 Keeps Shuffling",
+      "date": "2025-06-24T23:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/19970271",
+      "issueNumber": "19970271"
+    },
+    {
+      "id": "19811338",
+      "title": "Syntax Snack Pack: The Tailwind Defense & TanStack's Router Magic",
+      "date": "2025-06-10T23:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/19811338",
+      "issueNumber": "19811338"
+    },
+    {
+      "id": "19634799",
+      "title": "Syntax Snack Pack: JavaScript Turns 30, and Temporal Finally Shows Up to the Party",
+      "date": "2025-05-27T23:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/19634799",
+      "issueNumber": "19634799"
+    },
+    {
+      "id": "19435809",
+      "title": "Syntax Snack Pack: React Query secrets + Gumroad's open source pivot",
+      "date": "2025-05-13T23:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/19435809",
+      "issueNumber": "19435809"
+    },
+    {
+      "id": "19273414",
+      "title": "Syntax Snack Pack: Vite, JSX, and the h1 that broke the web",
+      "date": "2025-04-29T23:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/19273414",
+      "issueNumber": "19273414"
+    },
+    {
+      "id": "19112359",
+      "title": "Syntax Snack Pack: Zod's Major Upgrade & Figma's Legal Rampage",
+      "date": "2025-04-15T23:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/19112359",
+      "issueNumber": "19112359"
+    },
+    {
+      "id": "18928185",
+      "title": "Syntax Snack Pack: Next.js Secrets & The Hidden CSS Performance Gem",
+      "date": "2025-04-01T23:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/18928185",
+      "issueNumber": "18928185"
+    },
+    {
+      "id": "18732946",
+      "title": "Syntax Snack Pack: Next.js vs TanStack",
+      "date": "2025-03-19T00:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/18732946",
+      "issueNumber": "18732946"
+    },
+    {
+      "id": "18584691",
+      "title": "Syntax Snack Pack: EA Command & Conquer Source Code Released",
+      "date": "2025-03-05T00:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/18584691",
+      "issueNumber": "18584691"
+    },
+    {
+      "id": "18405685",
+      "title": "Syntax Snack Pack: RIP Create React App + SQL Crime Solving 🕵️",
+      "date": "2025-02-19T00:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/18405685",
+      "issueNumber": "18405685"
+    },
+    {
+      "id": "18233284",
+      "title": "Syntax Snack Pack: Firefox - we're not mad, just disappointed...",
+      "date": "2025-02-05T00:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/18233284",
+      "issueNumber": "18233284"
+    },
+    {
+      "id": "18049772",
+      "title": "Syntax Snack Pack: TikTok Just Forked VS Code 👀",
+      "date": "2025-01-22T00:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/18049772",
+      "issueNumber": "18049772"
+    },
+    {
+      "id": "17887795",
+      "title": "Syntax Snack Pack: If we had a crystal ball 🔮",
+      "date": "2025-01-08T00:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/17887795",
+      "issueNumber": "17887795"
+    },
+    {
+      "id": "17682396",
+      "title": "Syntax Snack Pack Issue #35: Svelte 5 overview, the world's most valuable startup, how to pic a mic...",
+      "date": "2024-12-18T00:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/17682396",
+      "issueNumber": "17682396"
+    },
+    {
+      "id": "17518314",
+      "title": "Syntax Snack Pack Issue #34: Wes was right, 78% of JS devs use a Mac (vs Windows)",
+      "date": "2024-12-04T00:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/17518314",
+      "issueNumber": "17518314"
+    },
+    {
+      "id": "17334626",
+      "title": "Syntax Snack Pack Issue #33: TanStack Start is in beta and is Deno 2 actually good?",
+      "date": "2024-11-20T00:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/17334626",
+      "issueNumber": "17334626"
+    },
+    {
+      "id": "17163246",
+      "title": "Syntax Snack Pack Issue #32: Copilot Kills Cursor?!",
+      "date": "2024-11-06T00:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/17163246",
+      "issueNumber": "17163246"
+    },
+    {
+      "id": "16996692",
+      "title": "Syntax Snack Pack Issue #31: A truly independent web browser, why you should try Hono, web dev horror stories and more",
+      "date": "2024-10-22T23:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/16996692",
+      "issueNumber": "16996692"
+    },
+    {
+      "id": "16818615",
+      "title": "Syntax Snack Pack Issue #30: Tickets to JSNation, the best way to build APIs, and 5 links from Wes Bos",
+      "date": "2024-10-08T23:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/16818615",
+      "issueNumber": "16818615"
+    },
+    {
+      "id": "16662935",
+      "title": "Syntax Snack Pack Issue #29: We don’t need to “rustify” JS... and 50 different React Hooks for your next project",
+      "date": "2024-09-24T23:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/16662935",
+      "issueNumber": "16662935"
+    },
+    {
+      "id": "16501013",
+      "title": "Syntax Snack Pack Issue #28: Flexbox vs, Grid?, RSC or Replicache?, LLMs or Humans?...",
+      "date": "2024-09-10T23:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/16501013",
+      "issueNumber": "16501013"
+    },
+    {
+      "id": "16317758",
+      "title": "Syntax Snack Pack Issue #27:  HTML in 2024, TypeScript Utilities, CSS (4, 5, & 6), NodeJS, and more",
+      "date": "2024-08-27T23:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/16317758",
+      "issueNumber": "16317758"
+    },
+    {
+      "id": "16194795",
+      "title": "Syntax Snack Pack Issue #26:  Panda, Tree shaking, Drag & Drop, Vertical buttons...",
+      "date": "2024-08-13T23:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/16194795",
+      "issueNumber": "16194795"
+    },
+    {
+      "id": "16039735",
+      "title": "Syntax Snack Pack Issue #25:  Full Stack React without Next.js?",
+      "date": "2024-07-30T23:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/16039735",
+      "issueNumber": "16039735"
+    },
+    {
+      "id": "15840194",
+      "title": "Syntax Snack Pack Issue #24:  \"your website should work with JS disabled\"...",
+      "date": "2024-07-16T23:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/15840194",
+      "issueNumber": "15840194"
+    },
+    {
+      "id": "15635748",
+      "title": "Syntax Snack Pack Issue #23:  Is JSX rotting our brains?",
+      "date": "2024-07-02T23:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/15635748",
+      "issueNumber": "15635748"
+    },
+    {
+      "id": "15625452",
+      "title": "Syntax Snack Pack Issue #22: CSS is now a programming language",
+      "date": "2024-06-18T23:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/15625452",
+      "issueNumber": "15625452"
+    },
+    {
+      "id": "15353122",
+      "title": "Syntax Snack Pack Issue #21:  The world's best productivity tip and fire-hydrant-inspired color palettes (?)",
+      "date": "2024-06-04T23:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/15353122",
+      "issueNumber": "15353122"
+    },
+    {
+      "id": "15329548",
+      "title": "Syntax Snack Pack Issue #20:  Are we approaching AI projects wrong? Should Remix and React Router merge?",
+      "date": "2024-05-21T23:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/15329548",
+      "issueNumber": "15329548"
+    },
+    {
+      "id": "15191646",
+      "title": "Issue #19:  A bombshell conference talk & the most attractive font store to ever exist",
+      "date": "2024-05-07T23:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/15191646",
+      "issueNumber": "15191646"
+    },
+    {
+      "id": "15053365",
+      "title": "Syntax Snack Pack Issue #18: A trilingual future?",
+      "date": "2024-04-23T23:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/15053365",
+      "issueNumber": "15053365"
+    },
+    {
+      "id": "14899853",
+      "title": "Syntax Snack Pack Issue #17: A hot take that ignited many others",
+      "date": "2024-04-09T23:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/14899853",
+      "issueNumber": "14899853"
+    },
+    {
+      "id": "14755293",
+      "title": "Syntax Snack Pack - Issue #16",
+      "date": "2024-03-27T00:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/14755293",
+      "issueNumber": "14755293"
+    },
+    {
+      "id": "14534336",
+      "title": "Syntax Snack Pack - Issue #15",
+      "date": "2024-03-13T00:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/14534336",
+      "issueNumber": "14534336"
+    },
+    {
+      "id": "14460353",
+      "title": "Syntax Snack Pack - Issue #14",
+      "date": "2024-02-28T00:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/14460353",
+      "issueNumber": "14460353"
+    },
+    {
+      "id": "14300104",
+      "title": "Syntax Snack Pack - Issue #13",
+      "date": "2024-02-14T00:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/14300104",
+      "issueNumber": "14300104"
+    },
+    {
+      "id": "14083259",
+      "title": "Syntax Snack Pack - Issue #12",
+      "date": "2024-01-31T00:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/14083259",
+      "issueNumber": "14083259"
+    },
+    {
+      "id": "13861990",
+      "title": "Syntax Snack Pack - Issue #10",
+      "date": "2024-01-03T00:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/13861990",
+      "issueNumber": "13861990"
+    },
+    {
+      "id": "13762894",
+      "title": "Syntax Snack Pack - Issue #9",
+      "date": "2023-12-20T00:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/13762894",
+      "issueNumber": "13762894"
+    },
+    {
+      "id": "13616774",
+      "title": "Syntax Snack Pack - Issue #8",
+      "date": "2023-12-06T00:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/13616774",
+      "issueNumber": "13616774"
+    },
+    {
+      "id": "13452478",
+      "title": "Syntax Snack Pack - Issue #7",
+      "date": "2023-11-22T00:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/13452478",
+      "issueNumber": "13452478"
+    },
+    {
+      "id": "13321635",
+      "title": "Syntax Snack Pack - Issue #6",
+      "date": "2023-11-08T00:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/13321635",
+      "issueNumber": "13321635"
+    },
+    {
+      "id": "13114930",
+      "title": "Syntax Snack Pack - Issue #5",
+      "date": "2023-10-24T23:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/13114930",
+      "issueNumber": "13114930"
+    },
+    {
+      "id": "13037476",
+      "title": "Syntax Snack Pack - Issue #4",
+      "date": "2023-10-10T23:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/13037476",
+      "issueNumber": "13037476"
+    },
+    {
+      "id": "12817368",
+      "title": "Syntax Snack Pack - Issue #3",
+      "date": "2023-09-26T23:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/12817368",
+      "issueNumber": "12817368"
+    },
+    {
+      "id": "12704124",
+      "title": "Syntax Snack Pack - Issue #2",
+      "date": "2023-09-12T23:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/12704124",
+      "issueNumber": "12704124"
+    },
+    {
+      "id": "12641251",
+      "title": "Syntax Snack Pack - Issue #1",
+      "date": "2023-08-29T23:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/12641251",
+      "issueNumber": "12641251"
+    }
+  ]
+}
