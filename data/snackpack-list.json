@@ -1,10 +1,24 @@
 {
   "metadata": {
-    "lastUpdated": "2026-02-01T01:06:20.520Z",
-    "totalIssues": 60,
+    "lastUpdated": "2026-03-01T01:05:19.112Z",
+    "totalIssues": 62,
     "version": "1.0.0"
   },
   "issues": [
+    {
+      "id": "23060572",
+      "title": "Snack Pack: Cloudflare rebuilt Next.js with AI in one week for $1,100",
+      "date": "2026-02-25T00:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/23060572",
+      "issueNumber": "23060572"
+    },
+    {
+      "id": "22882477",
+      "title": "Snack Pack: Should a new coder use AI?",
+      "date": "2026-02-11T00:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/22882477",
+      "issueNumber": "22882477"
+    },
     {
       "id": "22651237",
       "title": "Snack Pack: Ryan Dahl thinks you’re done writing code",
