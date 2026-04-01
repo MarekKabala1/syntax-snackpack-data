@@ -1,10 +1,17 @@
 {
   "metadata": {
-    "lastUpdated": "2026-03-01T01:05:19.112Z",
-    "totalIssues": 62,
+    "lastUpdated": "2026-04-01T01:14:45.534Z",
+    "totalIssues": 63,
     "version": "1.0.0"
   },
   "issues": [
+    {
+      "id": "23267503",
+      "title": "Snack Pack: React just left Meta",
+      "date": "2026-03-13T00:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/23267503",
+      "issueNumber": "23267503"
+    },
     {
       "id": "23060572",
       "title": "Snack Pack: Cloudflare rebuilt Next.js with AI in one week for $1,100",
