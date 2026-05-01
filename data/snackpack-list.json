@@ -1,10 +1,17 @@
 {
   "metadata": {
-    "lastUpdated": "2026-04-01T01:14:45.534Z",
-    "totalIssues": 63,
+    "lastUpdated": "2026-05-01T01:44:40.616Z",
+    "totalIssues": 64,
     "version": "1.0.0"
   },
   "issues": [
+    {
+      "id": "23699453",
+      "title": "Snack Pack: We Recreated NASA’s UI with Prompts",
+      "date": "2026-04-17T00:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/23699453",
+      "issueNumber": "23699453"
+    },
     {
       "id": "23267503",
       "title": "Snack Pack: React just left Meta",
