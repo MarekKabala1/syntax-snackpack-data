@@ -1,10 +1,31 @@
 {
   "metadata": {
-    "lastUpdated": "2026-05-01T01:44:40.616Z",
-    "totalIssues": 64,
+    "lastUpdated": "2026-06-01T02:08:52.310Z",
+    "totalIssues": 67,
     "version": "1.0.0"
   },
   "issues": [
+    {
+      "id": "24306239",
+      "title": "Snack Pack: Writing CSS without seeing the output",
+      "date": "2026-05-29T00:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/24306239",
+      "issueNumber": "24306239"
+    },
+    {
+      "id": "24131481",
+      "title": "Snack Pack: How often do you swear at AI?",
+      "date": "2026-05-15T00:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/24131481",
+      "issueNumber": "24131481"
+    },
+    {
+      "id": "23931824",
+      "title": "Snack Pack: A programming language designed for AI to write?",
+      "date": "2026-05-01T00:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/23931824",
+      "issueNumber": "23931824"
+    },
     {
       "id": "23699453",
       "title": "Snack Pack: We Recreated NASA’s UI with Prompts",
