@@ -1,10 +1,17 @@
 {
   "metadata": {
-    "lastUpdated": "2026-06-01T02:08:52.310Z",
-    "totalIssues": 67,
+    "lastUpdated": "2026-07-01T02:02:36.556Z",
+    "totalIssues": 68,
     "version": "1.0.0"
   },
   "issues": [
+    {
+      "id": "24689763",
+      "title": "Snack Pack: Browsers and UIs are dead.",
+      "date": "2026-06-26T00:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/24689763",
+      "issueNumber": "24689763"
+    },
     {
       "id": "24306239",
       "title": "Snack Pack: Writing CSS without seeing the output",
