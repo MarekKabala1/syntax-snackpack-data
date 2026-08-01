@@ -1,10 +1,17 @@
 {
   "metadata": {
-    "lastUpdated": "2026-07-01T02:02:36.556Z",
-    "totalIssues": 68,
+    "lastUpdated": "2026-08-01T01:23:40.213Z",
+    "totalIssues": 69,
     "version": "1.0.0"
   },
   "issues": [
+    {
+      "id": "24939526",
+      "title": "Snack Pack: We need to start calling it \"Math\"",
+      "date": "2026-07-10T00:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/24939526",
+      "issueNumber": "24939526"
+    },
     {
       "id": "24689763",
       "title": "Snack Pack: Browsers and UIs are dead.",
