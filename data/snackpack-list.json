@@ -1,10 +1,17 @@
 {
   "metadata": {
-    "lastUpdated": "2026-08-01T01:23:40.213Z",
-    "totalIssues": 69,
+    "lastUpdated": "2026-09-01T02:11:07.591Z",
+    "totalIssues": 70,
     "version": "1.0.0"
   },
   "issues": [
+    {
+      "id": "25329890",
+      "title": "Snack Pack: There's a black market for AI tokens",
+      "date": "2026-08-07T00:00:00.000Z",
+      "url": "https://syntax.fm/snackpack/25329890",
+      "issueNumber": "25329890"
+    },
     {
       "id": "24939526",
       "title": "Snack Pack: We need to start calling it \"Math\"",
